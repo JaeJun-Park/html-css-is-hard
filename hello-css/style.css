@@ -1,0 +1,14 @@
+body {
+    color: #414141;
+    /* dark gray */
+    background-color: #EEEEEE;
+    /* Light gray */
+}
+
+ul {
+    list-style-type: circle;
+}
+
+ol {
+    list-style-type: lower-roman;
+}
